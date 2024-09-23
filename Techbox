@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productos Tecnológicos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Lleva tu negocio al siguiente nivel</h1>
+            <p>Ya sea que necesites asistencia personalizada o descubrir nuestras ofertas exclusivas, estás a un solo clic de la solución perfecta.</p>
+        </header>
+        
+        <section class="cta-buttons">
+            <div class="cta whatsapp">
+                <h2>Habla con un experto por WhatsApp</h2>
+                <p>¿Tienes dudas o necesitas orientación? Estamos aquí para ayudarte con todo lo que tu negocio necesita.</p>
+                <a href="https://wa.me/+542216798849" class="button">¡Quiero hablar con un experto!</a>
+            </div>
+            <div class="cta store">
+                <h2>Descubre nuestras mejores ofertas en la tienda online</h2>
+                <p>Encuentra productos y servicios diseñados para maximizar el rendimiento de tu negocio.</p>
+                <a href="https://tu-tienda-online.com" class="button">¡Quiero ver las ofertas!</a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 - Nombre del Negocio. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
